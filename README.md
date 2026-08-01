@@ -56,7 +56,7 @@ fun_fact: I turn "it works on my machine" into "it works everywhere" 🚀
 <td width="50%" valign="top">
 
 ### ⚡ MERN Stack Developer Intern
-**Altruisty Private Limited** · <i>_(add your dates here)_</i>
+**Altruisty Private Limited** · Jun 2026 - July 2026
 
 - Built **DevReview AI**, an AI-powered code review tool for pull requests & GitHub repositories
 - Designed the tool to detect bugs, suggest improvements, and flag security vulnerabilities automatically
@@ -66,7 +66,7 @@ fun_fact: I turn "it works on my machine" into "it works everywhere" 🚀
 <td width="50%" valign="top">
 
 ### 💻 Web Developer Intern
-**Cognifyz Solutions** · <i>_(add your dates here)_</i>
+**Cognifyz Solutions** · Aug 2025 - Sep 2025
 
 - Built several web applications including a music streaming app and authenticated websites
 - Implemented secure user authentication & authorization flows across projects
