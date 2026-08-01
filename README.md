@@ -65,7 +65,12 @@ fun_fact: I turn "it works on my machine" into "it works everywhere" 🚀
 </td>
 <td width="50%" valign="top">
 
-&nbsp;
+### 💻 Web Developer Intern
+**Cognifyz Solutions** · <i>_(add your dates here)_</i>
+
+- Built several web applications including a music streaming app and authenticated websites
+- Implemented secure user authentication & authorization flows across projects
+- Worked across the frontend and backend to deliver complete, functional applications
 
 </td>
 </tr>
@@ -159,17 +164,31 @@ AI-based concept system for public safety and streetlight surveillance.
 <br/>
 
 ## 🏅 GSSoC'26 Achievements
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/99201c6e-87cc-441d-96a0-e8c19701c471" alt="GSSoC Achievement 1" width="200"/>
-  <img src="https://github.com/user-attachments/assets/d1a4f1b6-7022-4f09-8a43-322067189af0" alt="GSSoC Achievement 2" width="200"/>
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bd06dde8-71d7-4481-a358-81e6a609b865" alt="GSSoC Achievement 3" width="200"/>
-  <img src="https://github.com/user-attachments/assets/a6ef9f80-3ee6-477c-954e-b6f4478378ed" alt="GSSoC Achievement 4" width="200"/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/717a21c1-4c53-4a78-be76-3ad47e1839d2" alt="gssoc-badge-point_scorer" width="150"/>
+  <img src="https://github.com/user-attachments/assets/6040f424-62ca-4fe1-80f8-f3a7dd81f012" alt="gssoc-badge-rising_star" width="150"/>
+  <img src="https://github.com/user-attachments/assets/59beaf45-7dc2-4727-8a22-b662bc5b2c49" alt="gssoc-badge-power_contributor" width="150"/>
+  <img src="https://github.com/user-attachments/assets/8fd90b82-8113-44e2-a40e-daa50dd50632" alt="gssoc-badge-elite" width="150"/>
+  <img src="https://github.com/user-attachments/assets/7a97770c-7fbc-4114-af61-deb464801ae1" alt="gssoc-badge-role_contributor" width="150"/>
 </p>
 
-<br/>
+---
+
+## 🏆 GitHub Achievements
+<p align="left">
+  <a href="https://github.com/Ash-Misty?achievement=pull-shark&tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="90"/>
+  </a>
+  <a href="https://github.com/Ash-Misty?achievement=quickdraw&tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="90"/>
+  </a>
+  <a href="https://github.com/Ash-Misty?achievement=pair-extraordinaire&tab=achievements">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire" width="90"/>
+  </a>
+</p>
+
+---
+
 
 ## 📊 GitHub Analytics
 
@@ -190,6 +209,7 @@ AI-based concept system for public safety and streetlight surveillance.
 
 <a href="mailto:charlinashini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Ash-Misty"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/charlin-ashini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://ash-portfolio-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7D5FFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
 
