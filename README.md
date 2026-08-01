@@ -59,11 +59,11 @@
 ---
 
 ## 🏅 GSSoC'26 Achievements
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/99201c6e-87cc-441d-96a0-e8c19701c471" alt="GSSoC Achievement 1" width="180"/>
-  <img src="https://github.com/user-attachments/assets/d1a4f1b6-7022-4f09-8a43-322067189af0" alt="GSSoC Achievement 2" width="180"/>
-  <img src="https://github.com/user-attachments/assets/bd06dde8-71d7-4481-a358-81e6a609b865" alt="GSSoC Achievement 3" width="180"/>
-  <img src="https://github.com/user-attachments/assets/a6ef9f80-3ee6-477c-954e-b6f4478378ed" alt="GSSoC Achievement 4" width="180"/>
+<p align="left"><img width="1080" height="1080" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/717a21c1-4c53-4a78-be76-3ad47e1839d2" />
+<img width="1080" height="1080" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/6040f424-62ca-4fe1-80f8-f3a7dd81f012" />
+<img width="1080" height="1080" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/59beaf45-7dc2-4727-8a22-b662bc5b2c49" />
+<img width="1080" height="1080" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/8fd90b82-8113-44e2-a40e-daa50dd50632" />
+<img width="1080" height="1080" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/7a97770c-7fbc-4114-af61-deb464801ae1" />
 </p>
 
 ---
