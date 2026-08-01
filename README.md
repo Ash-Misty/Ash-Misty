@@ -59,11 +59,12 @@
 ---
 
 ## 🏅 GSSoC'26 Achievements
-<p align="left"><img width="1080" height="1080" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/717a21c1-4c53-4a78-be76-3ad47e1839d2" />
-<img width="1080" height="1080" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/6040f424-62ca-4fe1-80f8-f3a7dd81f012" />
-<img width="1080" height="1080" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/59beaf45-7dc2-4727-8a22-b662bc5b2c49" />
-<img width="1080" height="1080" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/8fd90b82-8113-44e2-a40e-daa50dd50632" />
-<img width="1080" height="1080" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/7a97770c-7fbc-4114-af61-deb464801ae1" />
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/717a21c1-4c53-4a78-be76-3ad47e1839d2" alt="gssoc-badge-point_scorer" width="150"/>
+  <img src="https://github.com/user-attachments/assets/6040f424-62ca-4fe1-80f8-f3a7dd81f012" alt="gssoc-badge-rising_star" width="150"/>
+  <img src="https://github.com/user-attachments/assets/59beaf45-7dc2-4727-8a22-b662bc5b2c49" alt="gssoc-badge-power_contributor" width="150"/>
+  <img src="https://github.com/user-attachments/assets/8fd90b82-8113-44e2-a40e-daa50dd50632" alt="gssoc-badge-elite" width="150"/>
+  <img src="https://github.com/user-attachments/assets/7a97770c-7fbc-4114-af61-deb464801ae1" alt="gssoc-badge-role_contributor" width="150"/>
 </p>
 
 ---
