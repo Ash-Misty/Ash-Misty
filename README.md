@@ -69,6 +69,20 @@
 
 ---
 
+## 🏆 GitHub Achievements
+<p align="left">
+  <a href="https://github.com/Ash-Misty?achievement=pull-shark&tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="90"/>
+  </a>
+  <a href="https://github.com/Ash-Misty?achievement=quickdraw&tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Quickdraw" width="90"/>
+  </a>
+  <a href="https://github.com/Ash-Misty?achievement=pair-extraordinaire&tab=achievements">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair Extraordinaire" width="90"/>
+  </a>
+</p>
+
+---
 
 ## 📊 GitHub Analytics
 <p align="center">
