@@ -70,11 +70,11 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ash-Misty&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ash-Misty&theme=tokyonight" alt="GitHub streak"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Ash-Misty&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=Ash-Misty&theme=tokyonight" alt="GitHub streak"/>
 </p>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-Misty&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ash-Misty&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
 
 ---
