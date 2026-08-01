@@ -68,11 +68,6 @@
 
 ---
 
-## 📄 Resume
-- [View / Download Resume](https://github.com/user-attachments/assets/99201c6e-87cc-441d-96a0-e8c19701c471)
-
----
-
 ## 📊 GitHub Analytics
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ash-Misty&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
